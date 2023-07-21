@@ -25,14 +25,14 @@ MAIN_CHANNEL_5 = os.getenv("MAIN_CHANNEL_5", "Channel_No_Five")
 # shortener api keys
 SHORTENER_API = os.environ.get("SHORTENER_API", "bee210ce3303815c525dd1d2a34f0b97406b4ee0")
 SHORTENER_API_2 = os.environ.get("SHORTENER_API_2", "dcddbca543e209dd3f79cfbae6b1dd52cb3ec595")
-SHORTENER_API_3 = os.environ.get("SHORTENER_API_3", "dcddbca543e209dd3f79cfbae6b1dd52cb3ec595")
+SHORTENER_API_3 = os.environ.get("SHORTENER_API_3", "bee210ce3303815c525dd1d2a34f0b97406b4ee0")
 SHORTENER_API_4 = os.environ.get("SHORTENER_API_4", "dcddbca543e209dd3f79cfbae6b1dd52cb3ec595")
 SHORTENER_API_5 = os.environ.get("SHORTENER_API_5", "23eb5dd17ac140282cad623f70635f2ba0820f4d")
 
 # shortener api urls
 SHORTENER_WEB = os.environ.get("SHORTENER_WEB", "https://sonic-links.com/api?api={0}&url={1}")
 SHORTENER_WEB_2 = os.environ.get("SHORTENER_WEB_2", "https://moneykamalo.com/api?api={0}&url={1}")
-SHORTENER_WEB_3 = os.environ.get("SHORTENER_WEB_3", "https://moneykamalo.com/api?api={0}&url={1}")
+SHORTENER_WEB_3 = os.environ.get("SHORTENER_WEB_3", "https://sonic-links.com/api?api={0}&url={1}")
 SHORTENER_WEB_4 = os.environ.get("SHORTENER_WEB_4", "https://moneykamalo.com/api?api={0}&url={1}")
 SHORTENER_WEB_5 = os.environ.get("SHORTENER_WEB_5", "https://paisakamalo.in/api?api={0}&url={1}")
 
